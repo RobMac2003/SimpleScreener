@@ -1,6 +1,6 @@
 # SimpleScreener
-Simple screener is a simple stock screener that pulls data from the alphavantage api and saves it locally
-Please put your own alpahavantage api key otherwise code will use defualt api key that only allows for a limited amount of requests.
+Simple screener is a simple stock screener that pulls data from the alphavantage api and saves it locally.
+Please use your own api key otherwise code will use defualt api key that only allows for a limited amount of requests.
 
 ![image](https://github.com/RobMac2003/SimpleScreener/assets/106797098/9b8ce055-03a1-42a9-a1af-499bfdcdc53e)
 
